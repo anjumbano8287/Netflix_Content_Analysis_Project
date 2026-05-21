@@ -45,6 +45,6 @@ Analyze Netflix content trends using interactive dashboards.
 
 <img width="3259" height="1659" alt="Netflix_dashboard" src="https://github.com/user-attachments/assets/90118aae-2cc2-46bc-bf93-803e1c8c003b" />
 
-<img width="1174" height="670" alt="image" src="https://github.com/user-attachments/assets/8c6d0974-e0da-4042-aab9-3c85cd758c4b" />
+
 
 
